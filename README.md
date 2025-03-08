@@ -2,6 +2,10 @@
 
 Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
 
+## Deployment
+
+Deployed Website: ## Deployment https://suhajkanikichela.github.io/Tin-dog/
+
 
 
 ## Built With
@@ -11,6 +15,10 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
   * Bootstrap
 
 
+## Authors
+
+  - **Suhaj kanikicherla**
+    [suhaj](https://suhajkanikichela.github.io/Tin-dog/)
 
 ## License
 
