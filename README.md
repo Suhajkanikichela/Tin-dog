@@ -2,11 +2,7 @@
 
 Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
 
-## Deployment
 
-Deployed Website: https://rosajen27.github.io/tindog/
-
-![tindog](./images/Capture.png)
 
 ## Built With
 
@@ -14,10 +10,6 @@ Deployed Website: https://rosajen27.github.io/tindog/
   * CSS
   * Bootstrap
 
-## Authors
-
-  - **Jennifer Rosa**
-    [Rosajen27](https://rosajen27.github.io/)
 
 
 ## License
@@ -26,7 +18,7 @@ Deployed Website: https://rosajen27.github.io/tindog/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2021 Jennifer Rosa
+Copyright (c) 2025 suhaj kanikicherla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
